@@ -1,0 +1,9 @@
+{
+  "name": "aitree-homepage",
+  "version": "1.0.0",
+  "description": "주식회사 에이아이트리(AI Tree Inc.) 공식 홈페이지",
+  "scripts": {
+    "start": "npx serve public",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
